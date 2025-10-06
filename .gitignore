@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*.swp
+
+# Optional: build artifacts
+dist/
+coverage/
+
+# Lock files (optional — keep if you want reproducible builds)
+# package-lock.json

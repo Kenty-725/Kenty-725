@@ -1,0 +1,15 @@
+{
+  "name": "kenty-725",
+  "version": "1.0.0",
+  "description": "<!-- 🌟 HEADER --> # Hi there, I'm Kenty-725 👋   Welcome to my GitHub profile!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^22.0.0"
+  }
+}
