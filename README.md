@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- 🌟 HEADER -->
+# Hi there, I'm Kenty-725 👋  
+Welcome to my GitHub profile!
 
-<!--
-**Kenty-725/Kenty-725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🏆 Trophy
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Kenty-725&theme=gruvbox&no-frame=true&margin-w=15)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenty-725&show_icons=true&theme=tokyonight)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Kenty-725&theme=tokyonight)
+
+
+---
+
+<!-- 🪶 FOOTER -->
+✨ Always learning. Always building. ✨
