@@ -1,5 +1,8 @@
 name: Update GitHub Profile Stats
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 0 * * 0' # 毎週日曜に実行
