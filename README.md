@@ -1,12 +1,11 @@
-
 ## 👋 Kenty-725
 
-- 🌱 Joined GitHub 2022年
-- 📊 Total Public Repos: 9
-- 🏙️ Location: Unknown
+![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenty-725&theme=tokyonight)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kenty-725&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kenty-725&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kenty-725&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenty-725&theme=tokyonight)
 
-### 📈 Top Languages
-- JavaScript: 5
-- Ruby: 3
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenty-725&show_icons=true&theme=transparent)
+📍 Somewhere on Earth  
+🕓 Joined GitHub in 2022  
+💬 #JavaScript · #Ruby
