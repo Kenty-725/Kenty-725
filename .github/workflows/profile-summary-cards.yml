@@ -14,10 +14,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Kenty-725
+          BRANCH_NAME: ${{ github.ref_name }}
           AUTO_PUSH: false
       - name: Commit cards
         env:
